@@ -68,10 +68,12 @@ I'm a **Computer Science Engineering student** passionate about building modern,
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu791&layout=compact&theme=default&title_color=0969DA&hide_border=true"/>
 </p>
 
+<h2>📈 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanu791&theme=minimal&hide_border=true&color=0969DA&line=0969DA&point=24292F"/>
 </p>
 
+<h2>🔥 GitHub Streak</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tanu791&theme=default&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA"/>
 </p>
