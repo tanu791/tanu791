@@ -64,8 +64,8 @@ I'm a **Computer Science Engineering student** passionate about building modern,
 ## :bar_chart: GitHub Stats ##
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanu791&show_icons=true&theme=default&title_color=0969DA&icon_color=0969DA&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu791&layout=compact&theme=default&title_color=0969DA&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanu791&show_icons=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu791&layout=compact"/>
 </p>
 
 <h2>📈 Contribution Graph</h2>
@@ -75,7 +75,7 @@ I'm a **Computer Science Engineering student** passionate about building modern,
 
 <h2>🔥 GitHub Streak</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanu791&theme=default&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA"/>
+  <img src="https://streak-stats.demolab.com?user=tanu791"/>
 </p>
 
 ## :globe_with_meridians: Connect With Me ##
